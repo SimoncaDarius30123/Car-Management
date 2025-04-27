@@ -1,0 +1,24 @@
+D:\Facultate An3\II-laborator\Tema2\Client\bin\Debug\Client.exe.config
+D:\Facultate An3\II-laborator\Tema2\Client\bin\Debug\Client.exe
+D:\Facultate An3\II-laborator\Tema2\Client\bin\Debug\Client.pdb
+D:\Facultate An3\II-laborator\Tema2\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Facultate An3\II-laborator\Tema2\Client\obj\Debug\Client.Form1.resources
+D:\Facultate An3\II-laborator\Tema2\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Facultate An3\II-laborator\Tema2\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Facultate An3\II-laborator\Tema2\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Facultate An3\II-laborator\Tema2\Client\obj\Debug\Client.exe
+D:\Facultate An3\II-laborator\Tema2\Client\obj\Debug\Client.pdb
+D:\Facultate An3\II-laborator\Tema2\Client\obj\Debug\Client.Form2.resources
+D:\Facultate An3\II-laborator\Tema2\Client\obj\Debug\Client.Form3.resources
+D:\Car-Management\Client\bin\Debug\Client.exe.config
+D:\Car-Management\Client\bin\Debug\Client.exe
+D:\Car-Management\Client\bin\Debug\Client.pdb
+D:\Car-Management\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Car-Management\Client\obj\Debug\Client.Form1.resources
+D:\Car-Management\Client\obj\Debug\Client.Form2.resources
+D:\Car-Management\Client\obj\Debug\Client.Form3.resources
+D:\Car-Management\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Car-Management\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Car-Management\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Car-Management\Client\obj\Debug\Client.exe
+D:\Car-Management\Client\obj\Debug\Client.pdb
